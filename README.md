@@ -7,3 +7,5 @@ The application is a simple demo project that showcases the basic functionality 
 ### Features
 
 - User authentication (login and registration)
+
+Romantikus randi
